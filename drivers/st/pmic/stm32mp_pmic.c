@@ -61,6 +61,7 @@ int dt_pmic_status(void)
 
 #if defined(IMAGE_BL2)
 	status = DT_SECURE;
+	status = (int)fdt_get_status(node);
 #else
 	status = (int)fdt_get_status(node);
 #endif
