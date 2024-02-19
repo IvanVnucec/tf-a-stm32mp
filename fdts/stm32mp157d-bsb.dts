@@ -12,7 +12,7 @@
 #include "stm32mp15-ddr3-2x4Gb-1066-binG.dtsi"
 
 / {
-	model = "Emcraft STM32MP157D SOM rev 3A, https://emcraft.com";
+	model = "Emcraft STM32MP157x SOM rev 3A, https://emcraft.com";
 	compatible = "st,stm32mp157d-ed1", "st,stm32mp157";
 
 	chosen {
