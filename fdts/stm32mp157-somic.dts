@@ -9,7 +9,7 @@
 #include "stm32mp15-pinctrl.dtsi"
 #include "stm32mp15xxaa-pinctrl.dtsi"
 #include <dt-bindings/clock/stm32mp1-clksrc.h>
-#include "stm32mp157a-somic-ddr3.dtsi"
+#include "stm32mp157-somic-ddr3.dtsi"
 
 / {
 	model = "STM32MP157x SOMIC";
