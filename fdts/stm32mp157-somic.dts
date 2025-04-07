@@ -1,7 +1,3 @@
-// SPDX-License-Identifier: (GPL-2.0+ OR BSD-3-Clause)
-/*
- * Copyright (C) Emcraft Systems 2024
- */
 /dts-v1/;
 
 #include "stm32mp157.dtsi"
